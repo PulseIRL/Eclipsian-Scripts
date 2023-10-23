@@ -8,4 +8,5 @@
 },
   "esmodules": ["scripts/custom-changes.mjs"],
   "url": "https://github.com/PulseIRL/Eclipsian-Scripts"
+"download": "https://github.com/PulseIRL/Eclipsian-Scripts/releases/download/v1.0.1/module.zip",
 }
