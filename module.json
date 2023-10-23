@@ -1,0 +1,11 @@
+{
+  "id": "eclipsian-scripts",
+  "title": "Eclipsian Scripts",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+},
+  "esmodules": ["scripts/custom-changes.mjs"],
+  "url": "https://github.com/PulseIRL/Eclipsian-Scripts"
+}
